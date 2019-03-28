@@ -3,3 +3,4 @@
 3.git add 1.txt
 4.good.
 5.update RSA to github
+6.git fetch
