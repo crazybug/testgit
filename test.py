@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 
 import time
+
 def test():
     print("test")
-    time.sleep(1)
+    time.sleep(2)
     print("ok.")
 
 if __name__=='__main__':
