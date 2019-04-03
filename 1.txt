@@ -5,3 +5,4 @@
 5.update RSA to github
 6.git fetch
 7.git remote for http
+8.git config --global --unset http.proxy
